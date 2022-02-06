@@ -28,7 +28,7 @@ By clicking the html file, it will appear in web browser.
 The home landing page will take you throughout the different secitons of the page via the naviation bar. Additionally, the Horiseon in the navigation bar will take back to landing page. 
 
 ```md
-![images of horiseon](assets/images/screenshot.png)
+![images of horiseon](assets/images/screenshot)
 ```
 
 
